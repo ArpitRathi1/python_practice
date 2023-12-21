@@ -1,2 +1,4 @@
 # python_practice
-This is my first git repository
+Hello world.
+This is my first git repository.
+
