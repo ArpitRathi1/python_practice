@@ -6,7 +6,6 @@
 # 2) Find the remainder of the number given by the user by dividing it by 2 and then allocate its value in result.
 # 3) If the value of result is equal to 0 then print number is even.
 # 4) else print number is odd.
-adding new line
 
 num=int(input("Enter any number:"))
 
