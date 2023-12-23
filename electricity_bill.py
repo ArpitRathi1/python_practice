@@ -1,9 +1,9 @@
-# Q) Write a python program to calculate the electricity bill according to the number of units consumed in following criteria:
+# Ques) Write a python program to calculate the electricity bill according to the number of units consumed in following criteria:
 # For first 100 units-No charge.
 # For next 100 units- rs 5 per unit
 # After 200 units- rs 10 per unit
 
-# solution-
+# Solution-
 # Input-1-unit.
 # Output-not required.
 # Process-

@@ -1,4 +1,6 @@
 # Ques) Write a python program to find if a person is Elegible for voting or not.
+
+# Solution-
 # Input-1-age
 # Output-not required.
 # process-
