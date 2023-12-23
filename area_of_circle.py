@@ -10,4 +10,4 @@
 
 radius_of_circle=float(input("Enter the value of radius_of_circle:"))
 area_of_circle=22/7*radius_of_circle**2
-print("Area of the circle is:",area_of_circle)
+print("Area of the circle is:"area_of_circle)
