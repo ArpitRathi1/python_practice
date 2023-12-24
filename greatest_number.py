@@ -1,7 +1,7 @@
 # Ques) Write a python program to print the greatest number among 3 user defined numbers.
-n1=int(input("Enter number one:"))
-n2=int(input("Enter number two:"))
-n3=int(input("Enter number three:"))
+n1=float(input("Enter number one:"))
+n2=float(input("Enter number two:"))
+n3=float(input("Enter number three:"))
 
 if n1>=n2 and n1>=n3:
 	print(n1,"is the greatest number")

@@ -12,7 +12,7 @@
 # 3) Else if unit is greater then 100 and less then or equal to 200 then print Your electricity bill for this month is, (unit-100)*5.
 # 4) Else print Your electricity bill for this month is, 500+(unit-200)*10.
  
-unit=int(input("Enter the number or units consumed:"))
+unit=float(input("Enter the number or units consumed:"))
 
 if unit<=100:
 	print("No charges")
