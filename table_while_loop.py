@@ -1,3 +1,5 @@
+# Write a program to print table of a user defined number using while loop.
+
 var_1=float(input("Enter any number:"))
 var_y=int(input("How many iterations:"))
 
