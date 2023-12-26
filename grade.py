@@ -1,3 +1,5 @@
+# Ques) Write a program to print grade of a student according to his marks. 
+
 marks=int(input("Enter the marks obtained by student:"))
 
 if marks>100:
