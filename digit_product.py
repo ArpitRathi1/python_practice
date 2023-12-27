@@ -1,4 +1,4 @@
-# Write a python program to display product of digits of the number accepted from the user.
+# Ques) Write a python program to display product of digits of the number accepted from the user.
 
 num=int(input("Enter any number:"))
 product=1
