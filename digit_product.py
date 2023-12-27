@@ -6,4 +6,4 @@ while num:
 	last_digit=num%10
 	product=product*last_digit
 	num=num//10
-print("Product of digits of",num,"is =",product)
+print("Product of digits of is =",product)
