@@ -3,6 +3,7 @@
 # >10000                  20%
 # >7000 and <=10000       15%
 # <=7000                  10%
+# Solution-
 
 mark_price=float(input("Enter the mark price of the item:"))
 if mark_price>10000:
