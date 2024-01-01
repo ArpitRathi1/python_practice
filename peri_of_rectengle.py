@@ -1,4 +1,5 @@
 # Ques) write a python program to calculate perimeter of a rectengle.
+# Solution-
 
 length_of_rec=int(input("Enter the value of length_of_rec:"))
 width_of_rec=int(input("Enter the value of width_of_rec:"))
