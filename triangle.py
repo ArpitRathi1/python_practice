@@ -1,8 +1,8 @@
 # Write a python program which accept three sides of triangle and check whether it is an equilateral,scalene or isosceles.
  
-side_1=int(input("Enter length of side_1:"))
-side_2=int(input("Enter length of side_2:"))
-side_3=int(input("Enter length of side_3:"))
+side_1=float(input("Enter length of side_1:"))
+side_2=float(input("Enter length of side_2:"))
+side_3=float(input("Enter length of side_3:"))
 
 if side_1==side_2==side_3:
 	print("It is a equilateral triangle")
