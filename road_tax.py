@@ -1,4 +1,5 @@
-# Q) Write a python program to take user defined value of cost price of bike and calculate road tax on the bike.
+# Ques) Write a python program to take user defined value of cost price of bike and calculate road tax on the bike.
+# Solution-
 # Input-1- cost_price.
 # Output-Not required.
 # Process-
