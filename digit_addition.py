@@ -1,4 +1,5 @@
 # Ques) Write a python program to display sum of digits of the number accepted from the user.
+# Solution-
 
 num=int(input("Enter any number:"))
 addition=0
