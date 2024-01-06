@@ -1,4 +1,5 @@
 # Ques) Write a python program to create a calcultor using match case.
+# Solution-
 
 num1=float(input("Enter number one:"))
 num2=float(input("Enter number two:"))
