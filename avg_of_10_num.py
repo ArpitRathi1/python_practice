@@ -1,4 +1,5 @@
 # Ques) Write a python program which accept 10 numbers and display their average.
+# Solution-
 
 numbers=[]
 for i in range (10):
