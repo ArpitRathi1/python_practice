@@ -1,4 +1,5 @@
 # Ques) Write a python program to calculte if a student in eligible for examination or not.(required attendence=75%)
+# Solution-
 
 working_day=int(input("Enter total number of working days:"))
 absent=int(input("Enter the number of days for which student is absent:"))
