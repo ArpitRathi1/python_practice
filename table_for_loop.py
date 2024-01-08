@@ -1,4 +1,5 @@
 # Write a python program to print table for a user defined value using for loop.
+# Solution-
 
 var_1=float(input("Enter any number:"))
 var_y=int(input("How many iterations:"))
