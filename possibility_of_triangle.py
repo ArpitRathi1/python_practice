@@ -1,4 +1,5 @@
 # Ques) write a python program to check a triangle is possible or not with the given length of sides.
+# Solution-
 
 side_1=float(input("Enter length of side 1:"))
 side_2=float(input("Enter length of side 2:"))
