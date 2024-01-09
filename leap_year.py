@@ -1,4 +1,5 @@
 # Ques) Write a program to take a user defined year and check it is a leap year or not.
+# Solution-
 
 year=int(input("Enter any year:"))
 
