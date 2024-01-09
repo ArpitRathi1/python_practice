@@ -1,4 +1,5 @@
 # Write a python program that keeps accepting numbers from the user untill user enters zero and display sum and average of all numbers.
+# Solution-
 
 num=1
 add=0
