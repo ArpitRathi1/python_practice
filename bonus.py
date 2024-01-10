@@ -1,5 +1,5 @@
 # Ques) Write a python program to calculate bonus according to salary and time period of service of employes.
-
+# Solution-
 
 salary=int(input("Enter your salary:"))
 time=int(input("Enter time period of service:"))
