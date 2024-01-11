@@ -1,4 +1,5 @@
 # Ques) Write a program to accept a number and check whether it is a perfect number or not.
+# Solution-
 
 num=int(input("Enter any positive integer:"))
 if num<0:
