@@ -1,4 +1,4 @@
-# Accept the sex ("M","F") , number of days and display the wages accorodingly:
+# Ques) Accept the sex ("M","F") , number of days and display the wages accorodingly:
 # Age               Sex               Wages/day
 # >=18 and <30      M                 700
 #                   F                 750
