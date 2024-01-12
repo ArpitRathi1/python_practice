@@ -1,4 +1,4 @@
-# Write a python program to give character of a ASCII number accepted by the user.
+# Ques) Write a python program to give character of a ASCII number accepted by the user.
 # Solution-
 
 Ascii=int(input("Enter Ascii code:"))
