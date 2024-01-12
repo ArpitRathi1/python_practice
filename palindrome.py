@@ -1,4 +1,4 @@
-# Write a python program to check the given input is a palindrome or not.
+# Ques) Write a python program to check the given input is a palindrome or not.
 # Solution-
 
 input_string=input("Enter input_string:")
