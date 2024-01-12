@@ -1,4 +1,5 @@
 # Ques) Write a python script to convert any user defined to camelcase.
+# Solution-
 
 input_str=input("Enter input string : ")
 start=input_str[0].lower()
