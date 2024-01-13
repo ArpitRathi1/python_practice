@@ -1,4 +1,4 @@
-# Ques) write a python program to find fectorial of a user defined integer number.
+# Ques) Write a python program to find fectorial of a user defined integer number.
 # Solution-
 
 var=int(input("Enter any number:"))
