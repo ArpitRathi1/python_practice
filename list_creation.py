@@ -1,4 +1,6 @@
 # Ques) Write a python script to create a list of:
+# Solution-
+
 # 1) Four vegetables 
 veg=["Apple","Banana","Cherry","Guava"]
 print(veg)
