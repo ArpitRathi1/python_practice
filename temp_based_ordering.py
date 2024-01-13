@@ -1,3 +1,6 @@
+# Ques) Write a python program to take tempreture based ordering.
+
+# Solution-
 # Input-1- temp
 # Output- not required
 # Process-
