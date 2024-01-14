@@ -34,3 +34,8 @@ a,b,c,d,e,f,g=l1       # Number of variable should be equal to number or item in
 print(a)
 print(g)
 
+# To change item in a list.
+l1[6]=5                # To change item at an specific index.
+print(l1) 
+l1[1:3]=6,12           # To change item at a range.
+print(l1)
