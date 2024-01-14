@@ -19,3 +19,18 @@ print(l1)
 l1.extend(l2)          # To add another list.
 print(l1)
 
+# To remove item from a list.
+l1.remove(12)          # To remove specific item from from a list.
+print(l1)              # remove() function takes item as in argument and it takes only one argument.
+l1.pop(1)              # To remove item at an specific index
+print(l1)              # pop() function takes index as an argument and it takes only one argument.
+del l1[1]              # To remove item at an specific index.
+print(l1)              
+del l1[7:]             # del can also remove a range in a list
+print(l1)
+
+# Unpacking a list.
+a,b,c,d,e,f,g=l1       # Number of variable should be equal to number or item in a list.
+print(a)
+print(g)
+
