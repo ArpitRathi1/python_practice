@@ -39,3 +39,4 @@ l1[6]=5                # To change item at an specific index.
 print(l1) 
 l1[1:3]=6,12           # To change item at a range.
 print(l1)
+
