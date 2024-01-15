@@ -40,3 +40,22 @@ print(l1)
 l1[1:3]=6,12           # To change item at a range.
 print(l1)
 
+# List concatination.
+l1=l1+l2
+print(l1)
+
+# List replication.
+l2=l2*3
+print(l2)
+
+# Sorting of list.
+l3=[2,5,1,9,6,0,4]     # To arrange in ascending order.
+l3.sort()
+print(l3)
+l3.sort(reverse=True)  # To arrange in desending order.
+print(l3)
+
+# To reverse a list.
+l3.reverse()
+print(l3)
+
