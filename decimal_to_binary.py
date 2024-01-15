@@ -1,4 +1,5 @@
 # Ques) Write a python program which accept decimal number and display its binary number.
+# Solution-
 
 n=int(input("Enter decimal number:"))
 binary=""
