@@ -59,3 +59,12 @@ print(l3)
 l3.reverse()
 print(l3)
 
+# List comprehension-
+l4=[1,2,3,4,5,6,7,8,9]
+# If you want to make a list from the item of list l4 having number more than 4.
+l5=[i for i in l4 if i>4]
+print(l5)
+
+# To copy a list
+l6=l5.copy()
+print(l6)
