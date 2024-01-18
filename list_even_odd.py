@@ -1,4 +1,5 @@
 # Ques) Write a python program to accept 10 numbers from the user and seprate the number in two list odd and even.
+# Solution-
 
 input_numbers=[]
 for i in range (10):
