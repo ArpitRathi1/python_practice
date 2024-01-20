@@ -1,4 +1,5 @@
-# Write a program to find vowels in a list.
+# Ques) Write a program to find vowels in a list.
+# Solution-
 
 lst=["A","a","b","r","E","G","i","x","d"]
 string="aeiou"
