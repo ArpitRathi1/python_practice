@@ -1,4 +1,4 @@
-# Write  a program to add all even numbers of a list.
+# Ques) Write  a program to add all even numbers of a list.
 # Solution-
 
 lst=[1,2,3,4,5,6,7,8,9,10]
