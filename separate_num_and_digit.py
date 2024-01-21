@@ -1,5 +1,6 @@
 # Ques) Write a python program to seprate character and numeric values from the given list and store it in a seprate list:
 # l1=[1,2,"A","C","F",7,5,"P",3]
+# Solution-
 
 l1=[1,2,"A","C","F",7,5,"P",3]
 digit=[]
