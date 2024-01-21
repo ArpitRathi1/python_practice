@@ -1,4 +1,4 @@
-# Write a program to delete all the repeated numbers in a list.
+# Ques- Write a program to delete all the repeated numbers in a list.
 # Solution-
 
 lst=[1,2,3,4,5,6,2,4,1,8]
