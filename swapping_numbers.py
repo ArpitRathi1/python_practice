@@ -1,4 +1,5 @@
 # Ques) Write a python script to swap two numeric variable without using a third varible.
+# Solution-
 
 a=float(input("Enter first number : "))
 b=float(input("Enter second number : "))
