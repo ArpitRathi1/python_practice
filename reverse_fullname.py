@@ -1,3 +1,6 @@
+# Ques) Write a python program to take name and last name from user and reverse it.
+# Solution-
+
 name=input("Enter your first name : ")
 last_name=input("Enter your last name : ")
 output=""
