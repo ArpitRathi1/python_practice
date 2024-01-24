@@ -29,6 +29,6 @@ fruits=fruits+fruits_1
 print(fruits)
 
 # Unpacking a tuple.
-fruit1,fruit2,fruit3=fruits
+fruit1,fruit2,fruit3,fruit4,fruit5=fruits
 print(fruit1)
 print(fruit2)
