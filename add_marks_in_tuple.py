@@ -1,5 +1,6 @@
 # Ques) Write a python program to find sum of marks of all student stored in the given tuple.
 # t1=(("Suman",35),("Arpit",75),("Ankit",50))
+# Solution-
 
 t1=(("Suman",35),("Arpit",75),("Ankit",50))
 add=0
