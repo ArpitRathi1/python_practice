@@ -1,5 +1,6 @@
 # Ques) Write a python program to remove (accepted from the user) from the given tuple
 # T1=(12,15,18,21,24,27,19)
+# Solution-
 
 T1=(12,15,18,21,24,27,19)
 el=int(input("Enter the elements to be removed : "))
