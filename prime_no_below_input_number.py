@@ -1,4 +1,5 @@
-# Write a python program to display prime numbers below any number accept from user.
+# Ques) Write a python program to display prime numbers below any number accept from user.
+# Solution-
 
 n=int(input("Enter n:"))
 prime=[]
