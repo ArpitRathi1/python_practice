@@ -1,4 +1,5 @@
 # Ques) Write a program to check a number is a prime number or not.
+# Solution-
 
 num=int(input("Enter any number:"))
 
