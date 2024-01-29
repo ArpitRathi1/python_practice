@@ -1,3 +1,10 @@
+# Properties of list.
+# 1) Indexed.
+# 2) Ordered.
+# 3) Mutable.
+# 4) Duplicates are allowed.
+# 5) List can be of any datatype.
+
 # Creation of a list.
 l1=["Arpit","Ankit",12,18,27,9.8]
 l2=[1,2,3,4,5]
