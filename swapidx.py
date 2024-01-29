@@ -1,3 +1,6 @@
+# Ques) Write a python program to swap to items in a list using index value.(index value taken by user)
+# Solution-
+
 n=int(input("Enter size of list:"))
 list=[]
 for i in range(n):
