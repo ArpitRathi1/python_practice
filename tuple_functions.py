@@ -1,3 +1,10 @@
+# Properties of tuple-
+# 1) Indexed.
+# 2) Ordered.
+# 3) Immutable.
+# 4) Duplicates are allowed.
+# 5) Tuple can be of any data type.
+
 # Creating a tuple.
 fruits=("Mango","apple","kiwi")
 fruits_1=("guava","orange")
