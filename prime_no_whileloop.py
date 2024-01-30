@@ -1,3 +1,6 @@
+# Ques) Write a python program to check wheather a user defined number is prime or not.(using while loop)
+# Solution-
+
 num=int(input("Enter any number:"))
 
 if num==0:
