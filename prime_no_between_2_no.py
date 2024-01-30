@@ -1,4 +1,5 @@
 # Ques)  Write a program to print all prime number fall between two numbers including both.(accept two numbers from user)
+# Solution-
 
 num_1=int(input("Enter first number:"))
 num_2=int(input("Enter second number:"))
