@@ -1,4 +1,4 @@
-# Write a python program to display sum of all odd and even number fall between two numbers including both.
+# Ques) Write a python program to display sum of all odd and even number fall between two numbers including both.
 # Solution-
 
 n1=int(input("Enter first number:"))
