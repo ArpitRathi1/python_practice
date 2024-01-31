@@ -1,5 +1,6 @@
 # Ques) Write a python script to print frequency of a number accepted from the user in the given tuple.
 # T1=(12,17,18,25,19,12,18,5,19)
+# Solution-
 
 T1=(12,17,18,25,19,12,18,5,19)
 n=float(input("Enter n : "))
