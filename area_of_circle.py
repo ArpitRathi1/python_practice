@@ -1,5 +1,4 @@
 # Ques) Write a python program to find area of circle.
-
 # Solution-
 # Input-1-radius_of_circle
 # Output-1-area_of_circle
