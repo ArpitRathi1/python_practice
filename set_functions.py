@@ -34,12 +34,22 @@ print(s1)                 # If item is not present in the set then discard funct
 s2={1,2,3}
 s3={5,6,1}
 
-s2.update(s3)             # update function will add items of s3 in s2.
+"""s2.update(s3)             # update function will add items of s3 in s2.
 print(s2)
 
 s4={10,11,12}
 s5={15,11,18}
 
 s6=s5.union(s4)           # union function will add items of s5 and s4 in a third variable s6.
-print(s6) 
-  
+print(s6) """
+
+
+# To keep only duplicates while joining.
+
+"""s2.intersection_update(s3)
+print(s1)"""
+
+# To keep all values except duplicates.
+
+"""s2.symmetric_difference_update(s3)
+print(s1)"""
