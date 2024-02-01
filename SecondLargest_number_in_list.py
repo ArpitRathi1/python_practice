@@ -1,4 +1,4 @@
-# Write a python program to find second largest number in the list.
+# Ques) Write a python program to find second largest number in the list.
 # Solution-
 
 l1=[2,1,5,3,6,4]
