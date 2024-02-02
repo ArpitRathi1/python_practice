@@ -1,4 +1,4 @@
-# Write a python program which accept the kilometer and calculate bill according to following criteria:
+# Ques) Write a python program which accept the kilometer and calculate bill according to following criteria:
 # First 10 km - rs 11/km
 # Next 90 km  - rs 10/km
 # After that  - rs 9/km
