@@ -1,4 +1,4 @@
-
+# Properties of dictionary-
 # 1) Unindexed.
 # 2) Ordered.
 # 3) Changable.
