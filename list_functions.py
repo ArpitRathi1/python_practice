@@ -11,7 +11,7 @@ l2=[1,2,3,4,5]
 
 print(l1)              # To print list.
 print(type(l1))        # To check type.
-print(len(l1))         # To check length.
+print(len(l1))         # To check length.  
 
 # To access item of a list.
 print(l1[1])           # Positive indexing.
@@ -75,3 +75,6 @@ print(l5)
 # To copy a list
 l6=l5.copy()
 print(l6)
+
+# To find index of a item.
+print(l1.index(6)) 
