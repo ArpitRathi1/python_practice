@@ -1,5 +1,6 @@
-# Write a python program to find how many repeated words in the given sentence.
+# Ques) Write a python program to find how many repeated words in the given sentence.
 # string="my name is Arpit my city is indore"
+# Solution-
 
 string="my name is Arpit my city is indore"
 lst=string.split()
