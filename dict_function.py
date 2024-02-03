@@ -61,3 +61,9 @@ lst=["Adi","Sumit","Gopi","Shubham"]
 value=0
 dic=dict.fromkeys(lst,value)
 print(dic)
+
+# Creating a dictionary using zip function.
+l1=["Sia","Jia","Tia"]
+l2=[1,2,3]
+dic_1=dict(zip(l1,l2))
+print(dic_1)
