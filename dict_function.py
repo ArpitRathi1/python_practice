@@ -48,3 +48,16 @@ print(roll_no)
 # del roll_no                   # To delete entire dict.
 # print(roll_no)
 
+# Loop through a dict.
+for i in roll_no:           # To print all keys.
+	print(i)
+for i in roll_no:           # To print all values.
+	print(roll_no[i])
+for i in roll_no.items():   # To print both keys and values.       
+	print(i)
+
+# Creating a dictionary using fromkeys() function.
+lst=["Adi","Sumit","Gopi","Shubham"]
+value=0
+dic=dict.fromkeys(lst,value)
+print(dic)
