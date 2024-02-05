@@ -1,5 +1,6 @@
 # Ques) Given a string and a number N, we need to mirror the characters from the n-th position upto the length of the string in alphabatical order.
 # In mirror operation, we change "a" to "z","b" to "y",and so on.
+# Solution-
 
 input_string=input("Enter string:")
 n=int(input("Enter n:"))
