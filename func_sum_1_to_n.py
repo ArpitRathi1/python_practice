@@ -1,4 +1,5 @@
 # Ques) Write a python function to calculate sum 1 to n.
+# Solution-
 
 def sum1ToN (n):
 	add=0
