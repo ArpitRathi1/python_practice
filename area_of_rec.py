@@ -1,4 +1,4 @@
-# Write a python program to calculate area of a rectengle.
+# Ques) Write a python program to calculate area of a rectengle.
 # Solution-
 
 length_of_rec=float(input("Enter the value of length_of_rec:"))
