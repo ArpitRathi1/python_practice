@@ -1,4 +1,5 @@
 # Ques) Write a python program to find the fectotial of a user defined number.
+# Solution-
 
 def fect(x):
 	result=1
