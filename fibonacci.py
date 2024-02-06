@@ -1,5 +1,5 @@
 # Ques) Write a python program to print fibonacci series.
-# solution-
+# Solution-
 
 n=int(input("Enter n:"))
 num_1=0
