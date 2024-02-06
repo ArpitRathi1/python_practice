@@ -1,4 +1,5 @@
 # Ques) Write a python function to find the user defined number is prime or not.
+# Solutiion-
 
 def prime (x):
 	if x==1:
