@@ -1,4 +1,5 @@
 # Ques) Write a recursive python function of calculating factorial.
+# Solution-
 
 def factorial (n):
 	# Base case
