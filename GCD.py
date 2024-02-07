@@ -1,3 +1,6 @@
+# Ques) Write a python function to calculate Greatest Common Divisor of two numbers.
+# Solutiion-
+
 def GCD (x,y):
 	if x>y:
 		small=y
