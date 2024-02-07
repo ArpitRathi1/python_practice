@@ -1,4 +1,4 @@
-# Ques) Python program to find fectorial of a user defined value using for loop.
+# Ques) Write a Python program to find fectorial of a user defined value using for loop.
 # Solution-
 # Input-1-var_1.
 # Output-Result
