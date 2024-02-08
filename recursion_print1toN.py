@@ -4,7 +4,7 @@
 # 2
 # 3
 # 4
-
+# Solution-
 
 def print1toN (n):
 	# Base case
