@@ -1,4 +1,5 @@
 # Ques) Write a python function which calculates "a" raised to the power "b" using recursion.
+# Solution-
 
 def power_a_b(a,b):
 	if b==0:
