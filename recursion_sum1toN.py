@@ -1,4 +1,5 @@
-# Write a recursive function to print sum from 1 to n.
+# Ques) Write a recursive function to print sum from 1 to n.
+# Solution-
 
 def sum1toN (n):
 	# Base case
