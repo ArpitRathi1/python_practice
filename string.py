@@ -1,9 +1,7 @@
 # Creating string.
-
 name_1='Arpit Rathi'
 name_2="Kapil Malviya"
 name_3='''Shubham Raikwar'''
-
 print(name_1,name_2,name_3)
 print(type(name_1))
 print(type(name_2))
