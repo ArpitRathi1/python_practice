@@ -23,3 +23,31 @@ text="Hello, World"
 # using for loop.
 for i in text:
 	print(i)
+
+# Finding length of a string.
+name='Arpit'
+print(len(name))
+
+# Find a chr/substring in a string.
+print(name_1.find("A"))
+print(name_1.find("z")) # -1 means that it is not present in the given string.
+
+# if you find a sub string it will give you its starting point.
+print(name_1.find("pit"))
+
+# Slicing of a string.
+st_1="abcdef"
+# If we want a sub string from c to d.
+st_2=st_1[2:4]
+print(st_2)
+# Slice from the start- if we want a sub string from a to c.
+st_3=st_1[0:3]
+print(st_3)
+# or 
+st_4=st_1[:3]
+print(st_4)
+# Slice till end - if we want a sub string from d to f.
+st_5=st_1[3:]
+print(st_5)
+# or 
+st_6=st_1[-3:]
