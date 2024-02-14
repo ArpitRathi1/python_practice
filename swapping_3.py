@@ -1,4 +1,5 @@
 # Ques) Write a python program to swap two numbers without using a third variable.
+# Solution-
 
 a=int(input("Enter number one : "))
 b=int(input("Enter number two : "))
