@@ -1,4 +1,4 @@
-# Write a python script to print fibonacci series by a recursive function.
+# Ques) Write a python script to print fibonacci series by a recursive function.
 
 def fibonacci(n):
 	if n==1:        # Base case
