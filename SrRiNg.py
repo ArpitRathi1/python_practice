@@ -1,6 +1,7 @@
 # Ques) Write a python script to convert a user defined string into the following manner:
 # input : string
 # output : StRiNg
+# Solution-
 
 input_string=input("Enter input string : ")
 output_string=""
