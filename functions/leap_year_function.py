@@ -1,4 +1,5 @@
 # Ques) Write a python function to find leap year.
+# Solution-
 
 def leap_year(n):
 	if n%100==0:
