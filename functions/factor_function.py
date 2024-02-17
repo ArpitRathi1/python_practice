@@ -1,4 +1,5 @@
 # Ques) Write a python function to find factors of a number.
+# Solution-
 
 def factor (num):
 	factors=[]
