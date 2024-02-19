@@ -1,4 +1,5 @@
 # Ques) Ask the user for a number and determine whether the number is prime or not.
+# Solution-
 
 def primality(n):
 	if n==1:
