@@ -1,3 +1,6 @@
+# Ques) Write a python function to find a number is perfect number or not.
+# Solution-
+
 def perfect_number(num):
 	if num<0:
 		return False
