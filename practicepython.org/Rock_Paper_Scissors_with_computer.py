@@ -1,4 +1,5 @@
 # Ques) Write a python program to play Rock-Paper_Scissors with computer.
+# Solution-
 
 import random
 
