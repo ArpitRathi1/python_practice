@@ -3,7 +3,7 @@
 # Rule no. 1-Rock beats scissors
 # Rule no. 2-Scissors beats paper
 # Rule no. 3-Paper beats rock
-
+# Solution-
 choice=True
 while choice==True:
 	a=input("Choose rock,paper or scissor for Player 1 : ")
