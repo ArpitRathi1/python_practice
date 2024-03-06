@@ -1,4 +1,5 @@
 # Ques) Write a python function that asks the user how many Fibonacci numbers to generate and then generates them.
+# Solution-
 
 def fibonacci (count):
 	fibo=[]
