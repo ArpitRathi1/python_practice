@@ -1,5 +1,6 @@
 # Ques) This time, we’re going to do exactly the opposite. You, the user, will have in your head a number between 0 and 100. The program will guess a number, and you, the user, will say whether it is too high, too low, or your number.
 # At the end of this exchange, your program should print out how many guesses it took to get your number.
+# Solution-
 
 number=int(input("Enter a number between 1 to 100 : "))
 count=0
