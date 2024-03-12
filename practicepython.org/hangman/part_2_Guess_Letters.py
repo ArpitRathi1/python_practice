@@ -9,6 +9,7 @@
 # Incorrect!
 # >>> Guess your letter: E
 # E _ _ _ _ _ _ _ E
+# solution-
 
 import random
 
