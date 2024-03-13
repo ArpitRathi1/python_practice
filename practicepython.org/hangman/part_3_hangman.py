@@ -4,6 +4,7 @@
 # Copy your code from Parts 1 and 2 into a new file as a starting point. Now add the following features:
 # 1) Only let the user guess 6 times, and tell the user how many guesses they have left.
 # 2) Keep track of the letters the user guessed. If the user guesses a letter they already guessed, don’t penalize them - let them guess again.
+# Solution-
 
 import random
 
