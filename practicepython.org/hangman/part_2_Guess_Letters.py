@@ -3,6 +3,7 @@
 # An example interaction can look like this:
 
 # >>> Welcome to Hangman!
+
 # _ _ _ _ _ _ _ _ _
 # >>> Guess your letter: S
 # Incorrect!
