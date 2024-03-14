@@ -7,7 +7,7 @@
 # |   |   |   | 
 #  --- --- --- 
 # This one is 3x3 (like in tic tac toe). Obviously, they come in many other sizes (8x8 for chess, 19x19 for Go, and many more).
-
+# solution-
 
 def drow_horizontal_line():
 	print(" ---" * n)
