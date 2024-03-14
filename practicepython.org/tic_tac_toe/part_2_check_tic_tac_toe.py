@@ -27,6 +27,8 @@
 # also_no_winner = [[1, 2, 0],
 #				    [2, 1, 0],
 #				    [2, 1, 0]]
+# Solution-
+
 def check_grid(grid):
 	# Rows
 	for i in range (0,3):
