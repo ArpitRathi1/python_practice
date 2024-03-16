@@ -1,6 +1,5 @@
 from utils import *
 
-
 user_choice=True
 while user_choice==True:
 	choice = int(input("Welcome to Our Marks Management System \nPress 1 : To Add New Marks Entry \nPress 2 : Show all Entries\nPress 3 : Generate Results\nPress 4 : Show Results and Grade\nEnter Your Choice : "))
