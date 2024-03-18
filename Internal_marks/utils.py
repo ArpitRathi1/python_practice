@@ -29,7 +29,7 @@ def show_entries():
 	every_entry = f1.readlines()
 	f1.close()
 	
-		for i in every_entry :
+	for i in every_entry :
 		i = i.replace("\n","")
 		elements = i.split(",")
 		print("-------------------------")

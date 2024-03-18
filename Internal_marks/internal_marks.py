@@ -6,7 +6,7 @@ while user_choice==True:
 	if choice == 1 :
 		add_entry()
 	elif choice == 2 :
-		show()
+		show_entries()
 	elif choice == 3:
 		generate_result()
 	elif choice == 4 :
