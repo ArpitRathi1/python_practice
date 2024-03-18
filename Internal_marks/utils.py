@@ -22,3 +22,9 @@ def add_entry():
 			print("Student Marks were added Successfully")
 		else:
 			print("Invalid Enter")
+
+def show_entries():
+	"""This function is created to show all the entries of marks obtained by students."""
+	f1 = open("internal_marks.txt", "r")
+	every_entry = f1.readlines()
+	f1.close()
