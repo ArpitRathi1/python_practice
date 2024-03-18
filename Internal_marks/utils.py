@@ -34,3 +34,7 @@ def show_entries():
 		elements = i.split(",")
 		print("-------------------------")
 		print("Name of student : ", elements[0])
+		print("Marks in first internal examination : ", elements[1])
+		print("Marks in second internal examination : ", elements[2])
+		print("Marks in third internal examination : ", elements[3])
+		print("-------------------------")
