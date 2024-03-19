@@ -51,3 +51,29 @@ def check_grade(x):
 		return("D")
 	else : 
 		return("Fail")
+
+def generate_result():
+	"""This function is created to generate result and the result is gererated by picking up two best scores of a student out
+	of three."""
+	f1 = open("internal_marks.txt", "r")
+	every_entry = f1.readlines()
+	f1.close()
+	f1 = open("results.txt", "w")
+	for i in every_entry:
+		i = i.replace("\n", "")
+		elements = i.split(",")
+		x = int(elements[1])
+		y = int(elements[2])
+		z = int(elements[3])
+		if x<=y and x<=z:
+			lowest_score = x
+		elif y<=x and y<=z:
+			lowest_score = y
+		else:
+			lowest_score = z
+		total = (x+y+z)
+		final_marks = total-lowest_score
+		grade = check_grade(final_marks)
+		result_entry = "{},{},{},{},{},{}\n".format(elements[0], elements[1], elements[2], elements[3], final_marks,grade)
+		f1.write(result_entry)
+	f1.close()
