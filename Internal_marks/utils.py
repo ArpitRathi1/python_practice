@@ -38,3 +38,16 @@ def show_entries():
 		print("Marks in second internal examination : ", elements[2])
 		print("Marks in third internal examination : ", elements[3])
 		print("-------------------------")
+
+def check_grade(x):
+	"""This function is created to give grades to students according to their performance in internal examination."""
+	if x<=40 and x>=35 :
+		return("A")
+	elif x<=34 and x>=30 :
+		return("B")
+	elif x<=29 and x>=25 :
+		return ("C")
+	elif x<=24 and x>=20 :
+		return("D")
+	else : 
+		return("Fail")
