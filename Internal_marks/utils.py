@@ -88,3 +88,6 @@ def show_results():
 		elements = i.split(",")
 		print("-------------------------")
 		print("Name of student : ", elements[0])
+		print("Final marks : ",elements[4])
+		print("Grade : ",elements[5])
+		print("-------------------------")
