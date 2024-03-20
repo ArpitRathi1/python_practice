@@ -77,3 +77,14 @@ def generate_result():
 		result_entry = "{},{},{},{},{},{}\n".format(elements[0], elements[1], elements[2], elements[3], final_marks,grade)
 		f1.write(result_entry)
 	f1.close()
+
+def show_results():
+	"""This function is created to show result and grade obtained by students"""
+	f1 = open("results.txt", "r")
+	entry = f1.readlines()
+	f1.close()
+	for i in entry:
+		i = i.replace("\n", "")
+		elements = i.split(",")
+		print("-------------------------")
+		print("Name of student : ", elements[0])
