@@ -2,3 +2,4 @@ Arpit rathi,18,19,19
 Shubham Raikwar,19,17,17
 Ashwin shukla,19,16,15
 Sumit barole,14,18,18
+Ankit shulka,17,16,16
