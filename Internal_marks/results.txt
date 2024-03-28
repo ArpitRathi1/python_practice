@@ -4,3 +4,4 @@ Ashwin shukla,19,16,15,35,A
 Sumit barole,14,18,18,36,A
 Ankit shulka,17,16,16,33,B
 Gopi,17,16,13,33,B
+Ankit Rathi,19,17,18,37,A
