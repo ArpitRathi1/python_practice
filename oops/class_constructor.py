@@ -3,6 +3,7 @@
 # 2 -> A method named area that calculates and returns the area of the rectangle.
 # 3 -> A method named perimeter that calculates and returns the perimeter of the rectangle.
 # use this to  create objects of the class and print width, height, area and perimeter.
+# Solution-
 
 class Rectangle:
 	def __init__(self,length,width):
