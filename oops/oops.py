@@ -1,3 +1,5 @@
+# Creation of class and object.
+
 class Student:
 	def set_name(self,name):
 		self.name = name
