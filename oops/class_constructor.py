@@ -1,4 +1,8 @@
-
+# Ques) Write a python class named Rectangle to represent a rectangle shape. The class should have the following functionalities:
+# 1 -> A method named set_dimensions that takes two parameters width and height and set the attributes of the rectangle accordingly.
+# 2 -> A method named area that calculates and returns the area of the rectangle.
+# 3 -> A method named perimeter that calculates and returns the perimeter of the rectangle.
+# use this to  create objects of the class and print width, height, area and perimeter.
 
 class Rectangle:
 	def __init__(self,length,width):
