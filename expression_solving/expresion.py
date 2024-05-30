@@ -21,3 +21,4 @@ class Expression:
 		for i in expression_list:
 			if i == "":
 				expression_list.remove(i)
+		return expression_list
