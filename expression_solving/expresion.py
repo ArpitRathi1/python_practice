@@ -17,3 +17,7 @@ class Expression:
 				operator = ""
 		else:
 			expression_list.append(operand)
+
+		for i in expression_list:
+			if i == "":
+				expression_list.remove(i)
