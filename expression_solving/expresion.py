@@ -15,3 +15,5 @@ class Expression:
 				expression_list.append(operator)
 				operand = ""
 				operator = ""
+		else:
+			expression_list.append(operand)
