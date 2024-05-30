@@ -6,3 +6,12 @@ class Expression:
 		operator = ""
 		operand = ""
 		expression_list=[]
+		for i in self.input_str:
+			if i not in operator_list:
+				operand = operand + i
+			else:
+				operator = operator + i
+				expression_list.append(operand)
+				expression_list.append(operator)
+				operand = ""
+				operator = ""
