@@ -35,3 +35,10 @@ def postfix(expresion):
 						else : 
 							j = temp_stack.top_value()
 					temp_stack.push(i)
+	else : 
+		x = temp_stack.length()
+		for i in range(x):
+			item_opt = temp_stack.pop()
+			post_stack.push(item_opt)
+
+	return post_stack.show()
