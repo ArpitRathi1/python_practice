@@ -19,3 +19,6 @@ class tech_stack :
 
 	def length(self):
 		return len(self.body)
+
+	def top_value(self):
+		return self.body[self.top]
