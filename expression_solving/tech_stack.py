@@ -6,3 +6,10 @@ class tech_stack :
 	def push(self,item):
 		self.body.append(item)
 		self.top +=1
+
+	def pop(self):
+		if self.top == -1 :
+			return None
+		else : 
+			self.top-=1
+			return self.body.pop()
