@@ -13,3 +13,9 @@ class tech_stack :
 		else : 
 			self.top-=1
 			return self.body.pop()
+
+	def show(self):
+		return self.body
+
+	def length(self):
+		return len(self.body)
