@@ -11,3 +11,12 @@ def solution(postfix_ex):
 		else:
 			value_1 = float(solution_stack.pop())
 			value_2 = float(solution_stack.pop())
+			if i == "+":
+				result = value_2 + value_1
+				solution_stack.push(result)
+			elif i == "-":
+				result = value_2 - value_1
+				solution_stack.push(result)
+			elif i == "*":
+				result = value_2 * value_1
+				solution_stack.push(result)
