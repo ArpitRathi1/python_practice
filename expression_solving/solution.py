@@ -8,3 +8,6 @@ def solution(postfix_ex):
 	for i in postfix_ex:
 		if i not in operator_priority:
 			solution_stack.push(i)
+		else:
+			value_1 = float(solution_stack.pop())
+			value_2 = float(solution_stack.pop())
