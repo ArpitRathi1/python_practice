@@ -20,3 +20,9 @@ def solution(postfix_ex):
 			elif i == "*":
 				result = value_2 * value_1
 				solution_stack.push(result)
+			elif i == "/":
+				result = value_2 / value_1
+				solution_stack.push(result)
+			else:
+				print("Invalid")
+	return result
